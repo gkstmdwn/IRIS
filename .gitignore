@@ -1,6 +1,8 @@
 # All Datasets
 data/
-test.py
+out/
+output/
+/test.py
 
 
 # Byte-compiled / optimized / DLL files
